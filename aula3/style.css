@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    background-color: beige;
+}
+
+main
+{
+    width: 50%;
+    margin-left: 25%;
+    padding: 50px;
+    text-align: center;
+    
+}
+
+h1
+{
+    text-align: center;
+    background-color: rgb(146, 41, 35);
+}
+
+h2
+{
+    text-align: left;
+}
+
+h3
+{
+    font-size: 40px;
+}
+
+.container--descubra
+{
+    margin-top: 10px;
+    padding: 15px;
+    background-color: rgb(68, 76, 60);
+    text-align: left;
+    height: 100px
+}
+
+header
+{
+   height: 40px; 
+}
+
